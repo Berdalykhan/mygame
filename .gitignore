@@ -1,0 +1,61 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+ ../../.anydesk/
+        ../../.bash_history
+        ../../.bash_logout
+        ../../.bashrc
+        ../../.cache/
+        ../../.config/
+        ../../.dotnet/
+        ../../.gitconfig
+        ../../.gnupg/
+        ../../.lesshst
+        ../../.local/
+        ../../.node_repl_history
+        ../../.npm/
+        ../../.nvm/
+        ../../.pki/
+        ../../.profile
+        ../../.python_history
+        ../../.ssh/
+        ../../.sudo_as_admin_successful
+        ../../.thunderbird/
+        ../../.vscode/
+        ../../.wakatime/
+        ../../.yarn/
+        ../../.yarnrc
+        ../../Dev/
+        ../../Snake/
+        ../../my-projekt/
+        ../../myfirstproject/
+        ../../mykey
+        ../../mykey.pub
+        ../../myproject/
+        ../../mysecondproject/
+        ../../mytherdproject/
+        ../../snap/
+        "../../\320\227\320\260\320\263\321\200\321\203\320\267\320\272\320\270/"
+        "../../\320\230\320\267\320\276\320\261\321\200\320\260\320\266\320\265\320\275\320\270\321\217/"
